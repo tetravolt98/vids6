@@ -1,0 +1,1076 @@
+1
+00:00:00,000 --> 00:00:00,240
+<u>Ah,</u> Kamala Harris.
+
+2
+00:00:00,240 --> 00:00:00,480
+Ah, Kamala Harris.
+
+3
+00:00:00,480 --> 00:00:00,800
+Ah, <u>Kamala</u> Harris.
+
+4
+00:00:00,800 --> 00:00:01,180
+Ah, Kamala <u>Harris.</u>
+
+5
+00:00:01,820 --> 00:00:01,940
+<u>What</u> an inspiring figure.
+
+6
+00:00:01,940 --> 00:00:02,040
+What <u>an</u> inspiring figure.
+
+7
+00:00:02,040 --> 00:00:02,680
+What an <u>inspiring</u> figure.
+
+8
+00:00:02,680 --> 00:00:03,160
+What an inspiring <u>figure.</u>
+
+9
+00:00:04,200 --> 00:00:04,340
+<u>I</u> remember the first time
+
+10
+00:00:04,340 --> 00:00:04,540
+I <u>remember</u> the first time
+
+11
+00:00:04,540 --> 00:00:04,700
+I remember <u>the</u> first time
+
+12
+00:00:04,700 --> 00:00:04,920
+I remember the <u>first</u> time
+
+13
+00:00:04,920 --> 00:00:05,120
+I remember the first <u>time</u>
+
+14
+00:00:05,120 --> 00:00:05,260
+<u>I</u> really paid attention to
+
+15
+00:00:05,260 --> 00:00:05,460
+I <u>really</u> paid attention to
+
+16
+00:00:05,460 --> 00:00:05,660
+I really <u>paid</u> attention to
+
+17
+00:00:05,660 --> 00:00:05,960
+I really paid <u>attention</u> to
+
+18
+00:00:05,960 --> 00:00:06,200
+I really paid attention <u>to</u>
+
+19
+00:00:06,200 --> 00:00:06,380
+<u>her.</u>
+
+20
+00:00:06,800 --> 00:00:06,900
+<u>It</u> was during the 2020
+
+21
+00:00:06,900 --> 00:00:07,000
+It <u>was</u> during the 2020
+
+22
+00:00:07,000 --> 00:00:07,220
+It was <u>during</u> the 2020
+
+23
+00:00:07,220 --> 00:00:07,340
+It was during <u>the</u> 2020
+
+24
+00:00:07,340 --> 00:00:07,940
+It was during the <u>2020</u>
+
+25
+00:00:07,940 --> 00:00:08,680
+<u>Democratic</u> debates.
+
+26
+00:00:08,680 --> 00:00:09,280
+Democratic <u>debates.</u>
+
+27
+00:00:09,740 --> 00:00:09,880
+<u>There</u> she was, standing competently
+
+28
+00:00:09,880 --> 00:00:10,060
+There <u>she</u> was, standing competently
+
+29
+00:00:10,060 --> 00:00:10,520
+There she <u>was,</u> standing competently
+
+30
+00:00:10,520 --> 00:00:10,840
+There she was, standing competently
+
+31
+00:00:10,840 --> 00:00:11,280
+There she was, <u>standing</u> competently
+
+32
+00:00:11,280 --> 00:00:11,960
+There she was, standing <u>competently</u>
+
+33
+00:00:11,960 --> 00:00:12,140
+<u>on</u> that stage.
+
+34
+00:00:12,140 --> 00:00:12,280
+on <u>that</u> stage.
+
+35
+00:00:12,280 --> 00:00:12,820
+on that <u>stage.</u>
+
+36
+00:00:13,260 --> 00:00:13,320
+<u>Her</u> powerful presence making waves
+
+37
+00:00:13,320 --> 00:00:13,800
+Her <u>powerful</u> presence making waves
+
+38
+00:00:13,800 --> 00:00:14,220
+Her powerful <u>presence</u> making waves
+
+39
+00:00:14,220 --> 00:00:14,660
+Her powerful presence <u>making</u> waves
+
+40
+00:00:14,660 --> 00:00:15,060
+Her powerful presence making <u>waves</u>
+
+41
+00:00:15,060 --> 00:00:15,540
+<u>as</u> she challenged the status
+
+42
+00:00:15,540 --> 00:00:15,700
+as <u>she</u> challenged the status
+
+43
+00:00:15,700 --> 00:00:16,080
+as she <u>challenged</u> the status
+
+44
+00:00:16,080 --> 00:00:16,320
+as she challenged <u>the</u> status
+
+45
+00:00:16,320 --> 00:00:16,620
+as she challenged the <u>status</u>
+
+46
+00:00:16,620 --> 00:00:17,000
+<u>quo.</u>
+
+47
+00:00:17,400 --> 00:00:17,440
+<u>I</u> was captivated by the
+
+48
+00:00:17,440 --> 00:00:17,580
+I <u>was</u> captivated by the
+
+49
+00:00:17,580 --> 00:00:18,220
+I was <u>captivated</u> by the
+
+50
+00:00:18,220 --> 00:00:18,380
+I was captivated <u>by</u> the
+
+51
+00:00:18,380 --> 00:00:18,480
+I was captivated by <u>the</u>
+
+52
+00:00:18,480 --> 00:00:18,640
+<u>way</u> she seamlessly balanced toughness
+
+53
+00:00:18,640 --> 00:00:18,840
+way <u>she</u> seamlessly balanced toughness
+
+54
+00:00:18,840 --> 00:00:19,260
+way she <u>seamlessly</u> balanced toughness
+
+55
+00:00:19,260 --> 00:00:19,780
+way she seamlessly <u>balanced</u> toughness
+
+56
+00:00:19,780 --> 00:00:20,320
+way she seamlessly balanced <u>toughness</u>
+
+57
+00:00:20,320 --> 00:00:20,820
+<u>with</u> authenticity.
+
+58
+00:00:20,820 --> 00:00:21,400
+with <u>authenticity.</u>
+
+59
+00:00:22,280 --> 00:00:22,360
+<u>A</u> rare quality in politics,
+
+60
+00:00:22,360 --> 00:00:22,560
+A <u>rare</u> quality in politics,
+
+61
+00:00:22,560 --> 00:00:23,060
+A rare <u>quality</u> in politics,
+
+62
+00:00:23,060 --> 00:00:23,240
+A rare quality <u>in</u> politics,
+
+63
+00:00:23,240 --> 00:00:23,680
+A rare quality in <u>politics,</u>
+
+64
+00:00:23,680 --> 00:00:23,900
+<u>if</u> you ask me.
+
+65
+00:00:23,900 --> 00:00:24,000
+if <u>you</u> ask me.
+
+66
+00:00:24,000 --> 00:00:24,200
+if you <u>ask</u> me.
+
+67
+00:00:24,200 --> 00:00:24,480
+if you ask <u>me.</u>
+
+68
+00:00:25,100 --> 00:00:25,220
+<u>Her</u> journey is captivating too,
+
+69
+00:00:25,220 --> 00:00:25,560
+Her <u>journey</u> is captivating too,
+
+70
+00:00:25,560 --> 00:00:25,760
+Her journey <u>is</u> captivating too,
+
+71
+00:00:25,760 --> 00:00:26,360
+Her journey is <u>captivating</u> too,
+
+72
+00:00:26,360 --> 00:00:26,720
+Her journey is captivating <u>too,</u>
+
+73
+00:00:27,300 --> 00:00:27,460
+<u>born</u> to immigrant parents who
+
+74
+00:00:27,460 --> 00:00:27,660
+born <u>to</u> immigrant parents who
+
+75
+00:00:27,660 --> 00:00:28,040
+born to <u>immigrant</u> parents who
+
+76
+00:00:28,040 --> 00:00:28,460
+born to immigrant <u>parents</u> who
+
+77
+00:00:28,460 --> 00:00:28,680
+born to immigrant parents <u>who</u>
+
+78
+00:00:28,680 --> 00:00:29,080
+<u>instilled</u> in her
+
+79
+00:00:29,080 --> 00:00:29,240
+instilled <u>in</u> her
+
+80
+00:00:29,240 --> 00:00:29,380
+instilled in <u>her</u>
+
+81
+00:00:29,380 --> 00:00:29,520
+<u>the</u> values of hard work
+
+82
+00:00:29,520 --> 00:00:29,820
+the <u>values</u> of hard work
+
+83
+00:00:29,820 --> 00:00:30,040
+the values <u>of</u> hard work
+
+84
+00:00:30,040 --> 00:00:30,260
+the values of <u>hard</u> work
+
+85
+00:00:30,260 --> 00:00:30,500
+the values of hard <u>work</u>
+
+86
+00:00:30,500 --> 00:00:30,680
+<u>and</u> resilience.
+
+87
+00:00:30,680 --> 00:00:31,100
+and <u>resilience.</u>
+
+88
+00:00:31,600 --> 00:00:31,960
+<u>I've</u> always found that personal
+
+89
+00:00:31,960 --> 00:00:32,140
+I've <u>always</u> found that personal
+
+90
+00:00:32,140 --> 00:00:32,420
+I've always <u>found</u> that personal
+
+91
+00:00:32,420 --> 00:00:32,660
+I've always found <u>that</u> personal
+
+92
+00:00:32,660 --> 00:00:33,040
+I've always found that <u>personal</u>
+
+93
+00:00:33,040 --> 00:00:33,580
+<u>backstory</u> adds depth
+
+94
+00:00:33,580 --> 00:00:34,020
+backstory <u>adds</u> depth
+
+95
+00:00:34,020 --> 00:00:34,360
+backstory adds <u>depth</u>
+
+96
+00:00:34,360 --> 00:00:34,600
+<u>to</u> a public figure, and
+
+97
+00:00:34,600 --> 00:00:34,720
+to <u>a</u> public figure, and
+
+98
+00:00:34,720 --> 00:00:34,980
+to a <u>public</u> figure, and
+
+99
+00:00:34,980 --> 00:00:35,400
+to a public <u>figure,</u> and
+
+100
+00:00:35,400 --> 00:00:35,880
+to a public figure, and
+
+101
+00:00:35,880 --> 00:00:36,020
+to a public figure, <u>and</u>
+
+102
+00:00:36,020 --> 00:00:36,220
+<u>hers</u> does just that.
+
+103
+00:00:36,220 --> 00:00:36,440
+hers <u>does</u> just that.
+
+104
+00:00:36,440 --> 00:00:36,720
+hers does <u>just</u> that.
+
+105
+00:00:36,720 --> 00:00:37,040
+hers does just <u>that.</u>
+
+106
+00:00:37,600 --> 00:00:37,840
+<u>Being</u> the first female vice
+
+107
+00:00:37,840 --> 00:00:38,040
+Being <u>the</u> first female vice
+
+108
+00:00:38,040 --> 00:00:38,320
+Being the <u>first</u> female vice
+
+109
+00:00:38,320 --> 00:00:38,660
+Being the first <u>female</u> vice
+
+110
+00:00:38,660 --> 00:00:38,980
+Being the first female <u>vice</u>
+
+111
+00:00:38,980 --> 00:00:39,460
+<u>president</u>
+
+112
+00:00:39,460 --> 00:00:39,940
+<u>and</u> the first black and
+
+113
+00:00:39,940 --> 00:00:40,040
+and <u>the</u> first black and
+
+114
+00:00:40,040 --> 00:00:40,300
+and the <u>first</u> black and
+
+115
+00:00:40,300 --> 00:00:40,580
+and the first <u>black</u> and
+
+116
+00:00:40,580 --> 00:00:40,800
+and the first black <u>and</u>
+
+117
+00:00:40,800 --> 00:00:41,040
+<u>South</u> Asian vice president,
+
+118
+00:00:41,040 --> 00:00:41,360
+South <u>Asian</u> vice president,
+
+119
+00:00:41,360 --> 00:00:41,580
+South Asian <u>vice</u> president,
+
+120
+00:00:41,580 --> 00:00:42,080
+South Asian vice <u>president,</u>
+
+121
+00:00:42,440 --> 00:00:42,560
+<u>she</u> broke so many barriers.
+
+122
+00:00:42,560 --> 00:00:42,740
+she <u>broke</u> so many barriers.
+
+123
+00:00:42,740 --> 00:00:43,040
+she broke <u>so</u> many barriers.
+
+124
+00:00:43,040 --> 00:00:43,300
+she broke so <u>many</u> barriers.
+
+125
+00:00:43,300 --> 00:00:43,740
+she broke so many <u>barriers.</u>
+
+126
+00:00:44,320 --> 00:00:44,520
+<u>I</u> vividly recall how emotional
+
+127
+00:00:44,520 --> 00:00:45,000
+I <u>vividly</u> recall how emotional
+
+128
+00:00:45,000 --> 00:00:45,320
+I vividly <u>recall</u> how emotional
+
+129
+00:00:45,320 --> 00:00:45,620
+I vividly recall <u>how</u> emotional
+
+130
+00:00:45,620 --> 00:00:46,100
+I vividly recall how <u>emotional</u>
+
+131
+00:00:46,100 --> 00:00:46,300
+<u>it</u> felt
+
+132
+00:00:46,300 --> 00:00:46,560
+it <u>felt</u>
+
+133
+00:00:46,560 --> 00:00:46,780
+<u>when</u> she took the oath
+
+134
+00:00:46,780 --> 00:00:46,920
+when <u>she</u> took the oath
+
+135
+00:00:46,920 --> 00:00:47,080
+when she <u>took</u> the oath
+
+136
+00:00:47,080 --> 00:00:47,260
+when she took <u>the</u> oath
+
+137
+00:00:47,260 --> 00:00:47,420
+when she took the <u>oath</u>
+
+138
+00:00:47,420 --> 00:00:47,560
+<u>of</u> office.
+
+139
+00:00:47,560 --> 00:00:47,920
+of <u>office.</u>
+
+140
+00:00:48,440 --> 00:00:48,580
+<u>Her</u> smile seemed to radiate
+
+141
+00:00:48,580 --> 00:00:48,940
+Her <u>smile</u> seemed to radiate
+
+142
+00:00:48,940 --> 00:00:49,280
+Her smile <u>seemed</u> to radiate
+
+143
+00:00:49,280 --> 00:00:49,420
+Her smile seemed <u>to</u> radiate
+
+144
+00:00:49,420 --> 00:00:49,840
+Her smile seemed to <u>radiate</u>
+
+145
+00:00:49,840 --> 00:00:49,920
+<u>a</u> sense of hope for
+
+146
+00:00:49,920 --> 00:00:50,120
+a <u>sense</u> of hope for
+
+147
+00:00:50,120 --> 00:00:50,400
+a sense <u>of</u> hope for
+
+148
+00:00:50,400 --> 00:00:50,560
+a sense of <u>hope</u> for
+
+149
+00:00:50,560 --> 00:00:50,780
+a sense of hope <u>for</u>
+
+150
+00:00:50,780 --> 00:00:51,000
+<u>so</u> many.
+
+151
+00:00:51,000 --> 00:00:51,240
+so <u>many.</u>
+
+152
+00:00:51,660 --> 00:00:51,960
+<u>But</u> it isn't all smooth
+
+153
+00:00:51,960 --> 00:00:52,060
+But <u>it</u> isn't all smooth
+
+154
+00:00:52,060 --> 00:00:52,360
+But it <u>isn't</u> all smooth
+
+155
+00:00:52,360 --> 00:00:52,520
+But it isn't <u>all</u> smooth
+
+156
+00:00:52,520 --> 00:00:52,820
+But it isn't all <u>smooth</u>
+
+157
+00:00:52,820 --> 00:00:53,260
+<u>sailing.</u>
+
+158
+00:00:53,740 --> 00:00:53,820
+<u>The</u> challenges she faces in
+
+159
+00:00:53,820 --> 00:00:54,220
+The <u>challenges</u> she faces in
+
+160
+00:00:54,220 --> 00:00:54,500
+The challenges <u>she</u> faces in
+
+161
+00:00:54,500 --> 00:00:54,840
+The challenges she <u>faces</u> in
+
+162
+00:00:54,840 --> 00:00:55,040
+The challenges she faces <u>in</u>
+
+163
+00:00:55,040 --> 00:00:55,160
+<u>her</u> position are astounding,
+
+164
+00:00:55,160 --> 00:00:55,500
+her <u>position</u> are astounding,
+
+165
+00:00:55,500 --> 00:00:55,740
+her position <u>are</u> astounding,
+
+166
+00:00:55,740 --> 00:00:56,280
+her position are <u>astounding,</u>
+
+167
+00:00:56,620 --> 00:00:56,880
+<u>from</u> navigating intricate international affairs
+
+168
+00:00:56,880 --> 00:00:57,340
+from <u>navigating</u> intricate international affairs
+
+169
+00:00:57,340 --> 00:00:57,900
+from navigating <u>intricate</u> international affairs
+
+170
+00:00:57,900 --> 00:00:58,480
+from navigating intricate <u>international</u> affairs
+
+171
+00:00:58,480 --> 00:00:58,960
+from navigating intricate international <u>affairs</u>
+
+172
+00:00:58,960 --> 00:00:59,420
+<u>to</u> tackling domestic issues like
+
+173
+00:00:59,420 --> 00:00:59,760
+to <u>tackling</u> domestic issues like
+
+174
+00:00:59,760 --> 00:01:00,100
+to tackling <u>domestic</u> issues like
+
+175
+00:01:00,100 --> 00:01:00,560
+to tackling domestic <u>issues</u> like
+
+176
+00:01:00,560 --> 00:01:00,820
+to tackling domestic issues <u>like</u>
+
+177
+00:01:00,820 --> 00:01:01,100
+<u>health</u> care
+
+178
+00:01:01,100 --> 00:01:01,340
+health <u>care</u>
+
+179
+00:01:01,340 --> 00:01:01,500
+<u>and</u> social justice.
+
+180
+00:01:01,500 --> 00:01:01,760
+and <u>social</u> justice.
+
+181
+00:01:01,760 --> 00:01:02,200
+and social <u>justice.</u>
+
+182
+00:01:02,640 --> 00:01:02,940
+<u>However,</u> what really struck me
+
+183
+00:01:02,940 --> 00:01:03,220
+However, what really struck me
+
+184
+00:01:03,220 --> 00:01:03,440
+However, <u>what</u> really struck me
+
+185
+00:01:03,440 --> 00:01:03,720
+However, what <u>really</u> struck me
+
+186
+00:01:03,720 --> 00:01:04,000
+However, what really <u>struck</u> me
+
+187
+00:01:04,000 --> 00:01:04,260
+However, what really struck <u>me</u>
+
+188
+00:01:04,260 --> 00:01:04,660
+<u>was</u> her willingness
+
+189
+00:01:04,660 --> 00:01:04,840
+was <u>her</u> willingness
+
+190
+00:01:04,840 --> 00:01:05,140
+was her <u>willingness</u>
+
+191
+00:01:05,140 --> 00:01:05,420
+<u>to</u> address the overwhelming pressures
+
+192
+00:01:05,420 --> 00:01:05,680
+to <u>address</u> the overwhelming pressures
+
+193
+00:01:05,680 --> 00:01:05,900
+to address <u>the</u> overwhelming pressures
+
+194
+00:01:05,900 --> 00:01:06,380
+to address the <u>overwhelming</u> pressures
+
+195
+00:01:06,380 --> 00:01:06,920
+to address the overwhelming <u>pressures</u>
+
+196
+00:01:06,920 --> 00:01:07,180
+<u>of</u> her role head on,
+
+197
+00:01:07,180 --> 00:01:07,300
+of <u>her</u> role head on,
+
+198
+00:01:07,300 --> 00:01:07,520
+of her <u>role</u> head on,
+
+199
+00:01:07,520 --> 00:01:07,800
+of her role <u>head</u> on,
+
+200
+00:01:07,800 --> 00:01:08,040
+of her role head <u>on,</u>
+
+201
+00:01:08,440 --> 00:01:08,720
+<u>proving</u> that even the most
+
+202
+00:01:08,720 --> 00:01:08,940
+proving <u>that</u> even the most
+
+203
+00:01:08,940 --> 00:01:09,240
+proving that <u>even</u> the most
+
+204
+00:01:09,240 --> 00:01:09,360
+proving that even <u>the</u> most
+
+205
+00:01:09,360 --> 00:01:09,560
+proving that even the <u>most</u>
+
+206
+00:01:09,560 --> 00:01:09,960
+<u>powerful</u> figures are human too.
+
+207
+00:01:09,960 --> 00:01:10,380
+powerful <u>figures</u> are human too.
+
+208
+00:01:10,380 --> 00:01:10,580
+powerful figures <u>are</u> human too.
+
+209
+00:01:10,580 --> 00:01:10,900
+powerful figures are <u>human</u> too.
+
+210
+00:01:10,900 --> 00:01:11,240
+powerful figures are human <u>too.</u>
+
+211
+00:01:11,740 --> 00:01:11,960
+<u>Yet</u> there's so much more
+
+212
+00:01:11,960 --> 00:01:12,200
+Yet <u>there's</u> so much more
+
+213
+00:01:12,200 --> 00:01:12,400
+Yet there's <u>so</u> much more
+
+214
+00:01:12,400 --> 00:01:12,600
+Yet there's so <u>much</u> more
+
+215
+00:01:12,600 --> 00:01:12,760
+Yet there's so much <u>more</u>
+
+216
+00:01:12,760 --> 00:01:12,880
+<u>to</u> discover
+
+217
+00:01:12,880 --> 00:01:13,240
+to <u>discover</u>
+
+218
+00:01:13,240 --> 00:01:13,620
+<u>about</u> her approach to leadership
+
+219
+00:01:13,620 --> 00:01:13,780
+about <u>her</u> approach to leadership
+
+220
+00:01:13,780 --> 00:01:14,140
+about her <u>approach</u> to leadership
+
+221
+00:01:14,140 --> 00:01:14,300
+about her approach <u>to</u> leadership
+
+222
+00:01:14,300 --> 00:01:14,760
+about her approach to <u>leadership</u>
+
+223
+00:01:14,760 --> 00:01:15,200
+<u>and</u> the decisions she'll make
+
+224
+00:01:15,200 --> 00:01:15,300
+and <u>the</u> decisions she'll make
+
+225
+00:01:15,300 --> 00:01:15,640
+and the <u>decisions</u> she'll make
+
+226
+00:01:15,640 --> 00:01:15,940
+and the decisions <u>she'll</u> make
+
+227
+00:01:15,940 --> 00:01:16,120
+and the decisions she'll <u>make</u>
+
+228
+00:01:16,120 --> 00:01:16,260
+<u>in</u> the coming years.
+
+229
+00:01:16,260 --> 00:01:16,320
+in <u>the</u> coming years.
+
+230
+00:01:16,320 --> 00:01:16,520
+in the <u>coming</u> years.
+
+231
+00:01:16,520 --> 00:01:16,940
+in the coming <u>years.</u>
+
+232
+00:01:17,260 --> 00:01:17,380
+<u>What</u> drives her amidst all
+
+233
+00:01:17,380 --> 00:01:17,740
+What <u>drives</u> her amidst all
+
+234
+00:01:17,740 --> 00:01:18,020
+What drives <u>her</u> amidst all
+
+235
+00:01:18,020 --> 00:01:18,420
+What drives her <u>amidst</u> all
+
+236
+00:01:18,420 --> 00:01:18,540
+What drives her amidst <u>all</u>
+
+237
+00:01:18,540 --> 00:01:18,660
+<u>the</u> scrutiny
+
+238
+00:01:18,660 --> 00:01:19,020
+the <u>scrutiny</u>
+
+239
+00:01:19,020 --> 00:01:19,620
+<u>and</u> what legacy is she
+
+240
+00:01:19,620 --> 00:01:19,780
+and <u>what</u> legacy is she
+
+241
+00:01:19,780 --> 00:01:20,120
+and what <u>legacy</u> is she
+
+242
+00:01:20,120 --> 00:01:20,360
+and what legacy <u>is</u> she
+
+243
+00:01:20,360 --> 00:01:20,500
+and what legacy is <u>she</u>
+
+244
+00:01:20,500 --> 00:01:20,840
+<u>determined</u> to leave behind?
+
+245
+00:01:20,840 --> 00:01:21,060
+determined <u>to</u> leave behind?
+
+246
+00:01:21,060 --> 00:01:21,220
+determined to <u>leave</u> behind?
+
+247
+00:01:21,220 --> 00:01:21,620
+determined to leave <u>behind?</u>
+
+248
+00:01:22,360 --> 00:01:22,580
+<u>I'm</u> curious, what do you
+
+249
+00:01:22,580 --> 00:01:22,860
+I'm <u>curious,</u> what do you
+
+250
+00:01:22,860 --> 00:01:23,020
+I'm curious, what do you
+
+251
+00:01:23,020 --> 00:01:23,140
+I'm curious, <u>what</u> do you
+
+252
+00:01:23,140 --> 00:01:23,220
+I'm curious, what <u>do</u> you
+
+253
+00:01:23,220 --> 00:01:23,260
+I'm curious, what do <u>you</u>
+
+254
+00:01:23,260 --> 00:01:23,420
+<u>think</u> her next big move
+
+255
+00:01:23,420 --> 00:01:23,560
+think <u>her</u> next big move
+
+256
+00:01:23,560 --> 00:01:23,740
+think her <u>next</u> big move
+
+257
+00:01:23,740 --> 00:01:24,000
+think her next <u>big</u> move
+
+258
+00:01:24,000 --> 00:01:24,240
+think her next big <u>move</u>
+
+259
+00:01:24,240 --> 00:01:24,460
+<u>could</u> be
+
+260
+00:01:24,460 --> 00:01:24,680
+could <u>be</u>
+
+261
+00:01:24,680 --> 00:01:25,320
+<u>and</u> what impact might it
+
+262
+00:01:25,320 --> 00:01:25,440
+and <u>what</u> impact might it
+
+263
+00:01:25,440 --> 00:01:25,780
+and what <u>impact</u> might it
+
+264
+00:01:25,780 --> 00:01:26,060
+and what impact <u>might</u> it
+
+265
+00:01:26,060 --> 00:01:26,200
+and what impact might <u>it</u>
+
+266
+00:01:26,200 --> 00:01:26,360
+<u>have</u> on her journey?
+
+267
+00:01:26,360 --> 00:01:26,520
+have <u>on</u> her journey?
+
+268
+00:01:26,520 --> 00:01:26,640
+have on <u>her</u> journey?
+
+269
+00:01:26,640 --> 00:01:26,980
+have on her <u>journey?</u>
+
